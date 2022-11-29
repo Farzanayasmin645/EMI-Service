@@ -62,7 +62,7 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 h2 {
@@ -73,9 +73,20 @@ h2 {
     padding-top: 7%;
 }
 
-.Orange-color {
-    color: rgb(255, 89, 0);
+.color {
+    text-align: center;
+    color: red;
 }
+
+.Orange-color {
+    color: black;
+    font-size: 20px;
+}
+
+.Object {
+    padding-right: 20px;
+}
+
 
 .flexible-container {
     display: flex;
@@ -90,7 +101,8 @@ h2 {
 
 .half-width img {
     width: 100%;
-    height: 70%;
+    height: 60%;
+    padding-top: 100px;
 
 }
 
