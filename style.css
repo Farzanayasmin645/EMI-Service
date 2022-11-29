@@ -97,23 +97,6 @@ h2 {
     border-radius: 5px;
 }
 
-.top-banner {
-    background-image: url(top-banner.jpg);
-    background-repeat: no-repeat;
-}
-
-.Dream-big {
-    background-image: url(dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: right;
-}
-
-.Experience-area {
-    background-image: url(exp-bg.png);
-    background-repeat: no-repeat;
-    background-position: left;
-}
-
 .Experience-item {
     width: 40%;
     margin-left: 5%;
@@ -123,41 +106,12 @@ h2 {
 
 }
 
-#Stack-Developer {
+#EMI Website {
     border-left: 7px solid tomato;
 }
 
-#Baby-Developer {
+#Benifit {
     border-left: 7px solid green;
-}
-
-section.contact-form-area {
-    padding: 50px 100px;
-    text-align: left;
-}
-
-
-
-.contact-from {
-    padding: 10px 100px 100px 100px;
-    text-align: left;
-    background-color: #FFF4D6;
-    ;
-}
-
-
-.contact-from input {
-    padding: 10px 20px;
-    margin-bottom: 15px;
-    font-size: 18px;
-    width: 100%;
-}
-
-.contact-from textarea {
-    width: 100%;
-    padding: 10px 20px;
-    margin-bottom: 50px;
-    font-size: 18px;
 }
 
 .button-style {
@@ -173,7 +127,7 @@ section.contact-form-area {
 .subscripe-area {
     margin: 50px 233px;
     text-align: center;
-    background: #FFF4D6;
+    background: #fff4d6d0;
     padding: 100px;
 }
 
