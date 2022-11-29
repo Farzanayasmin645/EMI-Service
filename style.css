@@ -69,6 +69,10 @@ h2 {
     font-size: 35px;
 }
 
+.Well {
+    padding-top: 7%;
+}
+
 .Orange-color {
     color: rgb(255, 89, 0);
 }
@@ -76,6 +80,7 @@ h2 {
 .flexible-container {
     display: flex;
     margin-bottom: 100px;
+    text-align: justify;
 }
 
 .half-width {
@@ -85,6 +90,7 @@ h2 {
 
 .half-width img {
     width: 100%;
+    height: 70%;
 
 }
 
@@ -146,9 +152,6 @@ h2 {
     border-radius: 0 5px 5px 0;
 }
 
-/* footer p {
-    text-align: center;
-} */
 .footer-area {
     padding: 40px 100px;
     text-align: center;
