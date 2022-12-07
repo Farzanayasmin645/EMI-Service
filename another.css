@@ -20,6 +20,12 @@ section.contact-form-area {
     width: 100%;
 }
 
+.title-area {
+    font-size: 25px;
+    text-align: center;
+
+}
+
 .contact-from textarea {
     width: 100%;
     padding: 10px 20px;

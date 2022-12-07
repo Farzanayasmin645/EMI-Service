@@ -124,12 +124,19 @@ h2 {
 
 }
 
-#EMI Website {
+#EMI {
     border-left: 7px solid tomato;
 }
 
-#Benifit {
+#Benefit {
     border-left: 7px solid green;
+}
+
+.Left {
+    padding-left: 80px;
+    color: brown;
+    font-size: 30px;
+    font-style: italic;
 }
 
 .button-style {
